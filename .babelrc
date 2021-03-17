@@ -1,0 +1,7 @@
+{
+    "presets": [
+        /* Babel nos ayuda a compilar todo el código de javascript a ECMAScript 6  */
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ]
+}
